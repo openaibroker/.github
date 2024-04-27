@@ -2,8 +2,8 @@
 
 The Open AI Broker API (not related to the company "OpenAI") is an open source - Apache 2.0 licensed - specification to discover and interact with AI models and AI Agents.
 
-[Read the specification](https://github.com/openaibroker/aibroker/blob/main/spec.md)
-[OpenAPI specification](https://github.com/openaibroker/aibroker/blob/main/openapi.yaml)
+- [Read the specification](https://github.com/openaibroker/aibroker/blob/main/spec.md)
+- [OpenAPI specification](https://github.com/openaibroker/aibroker/blob/main/openapi.yaml)
 
 ## Who is it for?
 
